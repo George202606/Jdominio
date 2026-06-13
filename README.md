@@ -1,0 +1,2 @@
+# Jdominio
+Script termux
