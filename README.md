@@ -8,7 +8,7 @@
 
 ```bash $ git clone https://github.com/George202606/Jdominio```
 
-```bash $ cd Jdomin```
+```bash $ cd Jdominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
